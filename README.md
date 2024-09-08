@@ -26,7 +26,7 @@ To run the Audio Streamer application locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/audio-streamer.git
+git clone https://github.com/bartoszpro/audio-streamer.git
 cd audio-streamer
 ```
 

@@ -39,7 +39,7 @@ npm install
 3. Run the node server:
 
 ```bash
-npm run dev
+node server.js
 ```
 
 4. Run the deployment server:

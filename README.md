@@ -15,9 +15,9 @@ This web application is a simple audio streaming feature between two users.
 - React.js
 - Next.js
 - Tailwind CSSS
-- TypeScript
 - Simple-peer
 - Socket.IO
+- Web Audio API
 
 ## Installation
 

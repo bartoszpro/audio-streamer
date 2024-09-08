@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Audio Streaming",
+  title: "Audio Streamer",
   description:
     "Streams audio between two users and allows basic audio manipulation",
 };
